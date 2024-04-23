@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\gabri\\Coding\\Contemporary Programming\\Final-Project\\BlazoreApp\\BlazoreApp\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\gabri\\Coding\\Contemporary Programming\\Final-Project\\BlazoreApp\\BlazoreApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazoreApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazoreApp.props",
+      "PackagePath": "build\\BlazoreApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazoreApp.props",
+      "PackagePath": "buildMultiTargeting\\BlazoreApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazoreApp.props",
+      "PackagePath": "buildTransitive\\BlazoreApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,47 @@
+@MinimalApiHost = http://localhost:5010
+
+###
+# return all user records
+GET {{MinimalApiHost}}/api/users
+
+###
+
+GET {{MinimalApiHost}}/api/users/1
+
+###
+
+PUT {{MinimalApiHost}}/api/users/1
+Content-Type: application/json
+
+{
+  "UserName": "Gabe",
+  "MoneyAmount": 25000
+}
+
+###
+
+POST {{MinimalApiHost}}/api/users
+Content-Type: application/json
+
+{
+  "UserName": "Alexander",
+  "MoneyAmount": 10000
+}
+
+###
+
+DELETE {{MinimalApiHost}}/api/users/2
+
+###
+
+
+###
+
+
+
+
+###
+#return all book records
+GET {{MinimalApiHost}}/api/books
+
+###
